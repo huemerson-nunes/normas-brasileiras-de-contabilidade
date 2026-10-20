@@ -1,0 +1,18 @@
+# Arquivos de sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# Arquivos temporários de editores e do Office
+~$*
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# IDEs e editores
+.vscode/
+.idea/
